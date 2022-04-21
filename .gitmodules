@@ -1,0 +1,3 @@
+[submodule "socialdatablog/themes/themes/hugo-book"]
+	path = socialdatablog/themes/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
