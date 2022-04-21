@@ -1,3 +1,7 @@
 [submodule "socialdatablog/themes/themes/hugo-book"]
 	path = socialdatablog/themes/themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
+[submodule "socialdatablog/public/socialdata2022.io"]
+	path = socialdatablog/public/socialdata2022.io
+	url = https://github.com/KvantropologSofie/socialdata2022.io.git
+	branch = main
