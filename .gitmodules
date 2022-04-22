@@ -5,3 +5,7 @@
 	path = socialdatablog/public/socialdata2022.io
 	url = https://github.com/KvantropologSofie/socialdata2022.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/KvantropologSofie/socialdata2022.io.git
+	branch = main
